@@ -45,50 +45,63 @@ I am a **Computer & AI Engineer** focused on building scalable systems, AI-power
 
 ### 📂 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td>
       <h3 align="center">🔮 Potorix</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Language-Ruby-CC342D?style=flat-square" alt="Ruby" />
         <img src="https://img.shields.io/badge/Framework-Sinatra-orange?style=flat-square" alt="Sinatra" />
       </p>
-      <p>An open-source virtualization management platform for KVM/libvirt environments built with Ruby, Sinatra, Sidekiq, and React + TS. Features a containerized deployment architecture (Docker Compose) and integrated noVNC web console.</p>
+      <p align="center">An open-source virtualization management platform for KVM/libvirt environments built with Ruby, Sinatra, Sidekiq, and React + TS. Features a containerized deployment architecture (Docker Compose) and integrated noVNC web console.</p>
       <p align="center">
         <a href="https://github.com/ozertugrul/potorix">👉 View Project</a>
       </p>
     </td>
-    <td width="50%">
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td>
       <h3 align="center">🌐 Modern Portfolio & CMS Platform</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Language-Rust-000000?style=flat-square" alt="Rust" />
         <img src="https://img.shields.io/badge/Backend-Axum-blue?style=flat-square" alt="Axum" />
       </p>
-      <p>A high-throughput asynchronous backend architecture utilizing Rust (Axum), Docker, Nginx, and Redis. Validated under load testing (200K requests / 1000 concurrency) using ApacheBench.</p>
+      <p align="center">A high-throughput asynchronous backend architecture utilizing Rust (Axum), Docker, Nginx, and Redis. Validated under load testing (200K requests / 1000 concurrency) using ApacheBench.</p>
       <p align="center">
         <a href="https://github.com/ozertugrul/modern-portfolio-website">👉 View Project</a>
       </p>
     </td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td>
       <h3 align="center">🛍️ LLMCini</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/AI-Llama--3-orange?style=flat-square" alt="Llama 3" />
         <img src="https://img.shields.io/badge/Optimization-Unsloth-green?style=flat-square" alt="Unsloth" />
       </p>
-      <p>Award-winning generative AI system for e-commerce. Generates detailed product descriptions from images using an SFT fine-tuned Llama-3 model (via Unsloth) and a ComfyUI/ControlNet/Grounding DINO image pipeline.</p>
+      <p align="center">Award-winning generative AI system for e-commerce. Generates detailed product descriptions from images using an SFT fine-tuned Llama-3 model (via Unsloth) and a ComfyUI/ControlNet/Grounding DINO image pipeline.</p>
       <p align="center">
         <a href="https://github.com/ozertugrul/e-ticaretHackathon">👉 View Project</a>
       </p>
     </td>
-    <td width="50%">
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td>
       <h3 align="center">🍔 Yemeksepeti App</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Language-Swift-F05138?style=flat-square" alt="Swift" />
         <img src="https://img.shields.io/badge/Framework-SwiftUI--MVVM-007ACC?style=flat-square" alt="SwiftUI" />
       </p>
-      <p>A multi-role food ordering platform mobile application built with SwiftUI (MVVM architecture) and FastAPI. Integrates pgvector for semantic search, recommendation algorithms, and JWT-based authentication.</p>
+      <p align="center">A multi-role food ordering platform mobile application built with SwiftUI (MVVM architecture) and FastAPI. Integrates pgvector for semantic search, recommendation algorithms, and JWT-based authentication.</p>
       <p align="center">
         <a href="https://github.com/ozertugrul/yemeksepetiApp">👉 View Project</a>
       </p>
