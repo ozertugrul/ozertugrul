@@ -11,7 +11,7 @@
   <a href="https://huggingface.co/ozertuu">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   </a>
-  <a href="https://www.kaggle.com/ozertugrul">
+  <a href="https://www.kaggle.com/ozertuu">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
@@ -102,7 +102,7 @@ I am a **Computer & AI Engineer** focused on building scalable systems, AI-power
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=ozertugrul&show_icons=true&theme=tokyonight&count_private=true" alt="Ertuğrul's GitHub Stats" height="185" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ozertugrul&layout=compact&theme=tokyonight&hide=html,css,javascript,jupyter%20notebook" alt="Top Languages" height="195" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ozertugrul&layout=compact&theme=tokyonight&hide=html,css,javascript,jupyter%20notebook,typescript" alt="Top Languages" height="195" />
 </p>
 
 <p align="center">
