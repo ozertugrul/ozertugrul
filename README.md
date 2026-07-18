@@ -1,7 +1,7 @@
-# 👋 Merhaba, Ben Ertuğrul Özer!
+# 👋 Merhaba, Ben Muhammet Ertuğrul Özer!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Software+Developer;AI+%26+Deep+Learning+Enthusiast;Open+Source+Contributor;Automation+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Computer+%26+AI+Engineer;Backend+Developer;AI+%26+ML+Explorer;Automation+Specialist" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,63 +17,34 @@
 
 ### 🚀 Hakkımda
 
-Yazılım geliştirme, yapay zeka/derin öğrenme ve otomasyon süreçlerine tutkuyla yaklaşan bir geliştiriciyim. Projelerimde performansa, ölçeklenebilirliğe ve açık kaynak ekosistemine katkı sağlamaya odaklanıyorum. YouTube ve diğer platformlar üzerinden toplulukla bilgi paylaşımında bulunmaktan keyif alıyorum.
+Amasya Üniversitesi Bilgisayar Mühendisliği mezunuyum. Ölçeklenebilir sistem mimarileri, yapay zeka destekli uygulamalar ve üretime hazır (production-ready) yazılım altyapıları geliştirmeye odaklanmış bir **Bilgisayar & Yapay Zeka Mühendisiyim**. 
 
-- 🛠️ Şu sıralar **Sistem Yönetimi, Bulut Teknolojileri ve Otomasyon** alanlarında çalışmalar yapıyorum.
-- 🤖 Yapay Zeka, Büyük Dil Modelleri (LLMs) ve Görüntü İşleme projeleri geliştiriyorum.
-- ⚡ **Rust, Python ve Swift** ile modern web, mobil ve sistem uygulamaları inşa ediyorum.
-- 🌐 Teknolojik gelişmeleri takip etmek ve güncel projelerimi paylaşmak için [YouTube Kanalımı](https://youtube.com/@ozertugrul) aktif olarak kullanıyorum.
+- 🏆 **TEKNOFEST 2024 Trendyol e-Ticaret Hackathonu**'nda "LLMCini" takımıyla **Türkiye 5.liği** derecesi elde ettim.
+- 🇹🇷 **Türkiye Teknoloji Takımı Vakfı (T3 Vakfı)** bünyesinde Bursiyer/Girişimci (Fellow) olarak yer alıp, DENEYAP öğrencilerine mentorluk yapıyor ve TEKNOFEST takımlarına teknik süreçlerde rehberlik ediyorum.
+- 💼 **Bionluk** üzerinden bağımsız (Freelance) olarak FastAPI, Django, PostgreSQL ve JavaScript kullanarak ölçeklenebilir backend sistemleri, NLP boru hatları ve vektör arama tabanlı AI entegrasyonları geliştirdim.
+- 🛠️ Amasya Üniversitesi Bilgi İşlem Daire Başkanlığı'nda:
+  - **Swift Developer Stajyeri** olarak SwiftUI (MVVM) ve FastAPI tabanlı, pgvector ile anlamsal arama ve işbirlikçi filtreleme yapan tavsiye motoruna sahip yemek sipariş platformu geliştirdim.
+  - **AI & Full Stack Developer Stajyeri** olarak PyTorch ile görüntü restorasyonu/renklendirme derin öğrenme modelleri eğittim; Celery tabanlı asenkron backend boru hatları kurup Docker ve Linux sunucu altyapılarını yönettim.
 
 ---
 
 ### 🛠️ Teknolojik Yetkinlikler (Tech Stack)
 
-<details open>
-<summary><b>💻 Programlama Dilleri</b></summary>
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
-</details>
+Aşağıda projelerimde aktif olarak kullandığım diller, çerçeveler ve araçlar yer almaktadır:
 
-<details open>
-<summary><b>🌐 Web & Mobil Geliştirme</b></summary>
-<br/>
+#### 💻 Programlama Dilleri & Web Teknolojileri
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,rust,ruby,swift,cs,c,cpp,javascript,html,css,tailwind,react,nextjs" alt="Languages and Web Stack" />
+  </a>
 </p>
-</details>
 
-<details open>
-<summary><b>🤖 Yapay Zeka & Veri Analitiği</b></summary>
-<br/>
+#### 🧠 Yapay Zeka, Veri & Sunucu Yönetimi
 <p align="left">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,redis,mongodb,sqlite,docker,nginx,linux,git" alt="AI and Systems Stack" />
+  </a>
 </p>
-</details>
-
-<details open>
-<summary><b>⚙️ Otomasyon, DevOps & Araçlar</b></summary>
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
-</p>
-</details>
 
 ---
 
@@ -87,18 +58,20 @@ GitHub hesabımdaki projelerimden bazıları:
       <h3 align="center">🔮 Potorix</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Language-Ruby-CC342D?style=flat-square" alt="Ruby" />
+        <img src="https://img.shields.io/badge/Framework-Sinatra-orange?style=flat-square" alt="Sinatra" />
       </p>
-      <p>Proxmox sanallaştırma platformuna açık kaynaklı, hafif ve modern bir alternatif oluşturma vizyonuyla geliştirilen yenilikçi bir proje.</p>
+      <p>KVM/libvirt ortamları için Ruby, Sinatra, Sidekiq ve React + TS kullanılarak geliştirilmiş, noVNC konsol entegrasyonlu ve Docker tabanlı açık kaynaklı bir sanallaştırma yönetim platformu (Proxmox alternatifi).</p>
       <p align="center">
         <a href="https://github.com/ozertugrul/potorix">👉 Projeyi İncele</a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🌐 Modern Portfolio Website</h3>
+      <h3 align="center">🌐 Modern Portfolio & CMS Platform</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Language-Rust-000000?style=flat-square" alt="Rust" />
+        <img src="https://img.shields.io/badge/Backend-Axum-blue?style=flat-square" alt="Axum" />
       </p>
-      <p>Rust dilinin gücü ve performansını kullanarak geliştirilmiş, modern web standartlarına uygun kişisel portfolyo web sitesi.</p>
+      <p>Rust (Axum), Docker, Nginx ve Redis kullanılarak geliştirilmiş asenkron, yüksek işlem kapasiteli backend altyapısı. ApacheBench ile 200 bin istek / 1000 eşzamanlılık testi yapılmıştır.</p>
       <p align="center">
         <a href="https://github.com/ozertugrul/modern-portfolio-website">👉 Projeyi İncele</a>
       </p>
@@ -106,25 +79,25 @@ GitHub hesabımdaki projelerimden bazıları:
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🛍️ e-Ticaret Hackathon</h3>
+      <h3 align="center">🛍️ LLMCini</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/LLM-AI-orange?style=flat-square" alt="AI" />
-        <img src="https://img.shields.io/badge/Team-LLMCini-blue?style=flat-square" alt="LLMCini" />
+        <img src="https://img.shields.io/badge/AI-Llama--3-orange?style=flat-square" alt="Llama 3" />
+        <img src="https://img.shields.io/badge/Optimization-Unsloth-green?style=flat-square" alt="Unsloth" />
       </p>
-      <p>Trendyol e-Ticaret Hackathonu kapsamında, büyük dil modelleri (LLMs) kullanılarak geliştirilmiş akıllı e-ticaret çözümü.</p>
+      <p>TEKNOFEST 2024 Trendyol e-Ticaret Hackathonu 5.liği kazanan projemiz. Görsellerden ürün açıklaması üreten, Unsloth ile fine-tune edilmiş Llama-3 modeli, ComfyUI, ControlNet ve Grounding DINO boru hattı.</p>
       <p align="center">
         <a href="https://github.com/ozertugrul/e-ticaretHackathon">👉 Projeyi İncele</a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🔗 n8n-linkedin</h3>
+      <h3 align="center">🖼️ Turkish-Captioner</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square" alt="Python" />
-        <img src="https://img.shields.io/badge/Tool-n8n-FF6C37?style=flat-square" alt="n8n" />
+        <img src="https://img.shields.io/badge/VLM-Llama--3.2--VL-red?style=flat-square" alt="Llama-3.2-VL" />
+        <img src="https://img.shields.io/badge/Data-45K+_Samples-purple?style=flat-square" alt="Data" />
       </p>
-      <p>Linkedin paylaşımlarını ve etkileşimlerini otomatikleştirmek için n8n entegrasyonu ve Python scriptlerini bir araya getiren iş akışı projesi.</p>
+      <p>Türkçe görsel açıklama/altyazı üretimi için Llama-3.2-VL tabanlı eğitilen Vision Language modeli. 45 binden fazla Türkçe veri örneğiyle SFT eğitimi yapılarak geliştirilmiştir.</p>
       <p align="center">
-        <a href="https://github.com/ozertugrul/n8n-linkedin">👉 Projeyi İncele</a>
+        <a href="https://github.com/ozertugrul/eksicrw">👉 Projeyi İncele</a>
       </p>
     </td>
   </tr>
@@ -135,8 +108,8 @@ GitHub hesabımdaki projelerimden bazıları:
 ### 📊 İstatistikler & Metrikler
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozertugrul&show_icons=true&theme=tokyonight&count_private=true" alt="Ertuğrul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozertugrul&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ozertugrul&show_icons=true&theme=tokyonight&count_private=true" alt="Ertuğrul's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ozertugrul&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
@@ -150,13 +123,16 @@ GitHub hesabımdaki projelerimden bazıları:
 Benimle iletişime geçmek veya projelerime katkıda bulunmak isterseniz:
 
 <p align="left">
-  <a href="https://linkedin.com/in/ozertugrul">
+  <a href="https://linkedin.com/in/ozerx">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://youtube.com/@ozertugrul">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="mailto:ozer.tugrul@outlook.com">
+  <a href="https://huggingface.co/ozertuu">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  </a>
+  <a href="mailto:info@ertugrulozer.com.tr">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
