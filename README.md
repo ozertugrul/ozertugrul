@@ -101,8 +101,8 @@ I am a **Computer & AI Engineer** focused on building scalable systems, AI-power
 ### 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ozertugrul&show_icons=true&theme=tokyonight&count_private=true" alt="Ertuğrul's GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ozertugrul&theme=tokyonight&hide=html,css,javascript,jupyter%20notebook" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ozertugrul&show_icons=true&theme=tokyonight&count_private=true" alt="Ertuğrul's GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ozertugrul&layout=compact&theme=tokyonight&hide=html,css,javascript,jupyter%20notebook" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
