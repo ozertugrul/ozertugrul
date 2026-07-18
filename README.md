@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Muhammet Ertuğrul Özer!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Computer+%26+Engineer;Backend+Developer;AI+%26+ML+Explorer;Automation+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Computer+Engineer;Backend+Developer;AI+%26+ML+Explorer;Automation+Specialist" alt="Typing SVG" />
 </p>
 
 <p align="center">
