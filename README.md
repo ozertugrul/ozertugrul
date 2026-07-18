@@ -19,8 +19,6 @@
 
 I am a **Computer & AI Engineer** focused on building scalable systems, AI-powered applications, and software architectures. With hands-on experience spanning backend development, machine learning, NLP, and intelligent automation, I enjoy solving complex engineering challenges and contributing to open-source communities.
 
-- 🏆 **TEKNOFEST 2024 Trendyol E-Commerce Hackathon** — 5th Place (Team: *LLMCini*)
-- 🇹🇷 **T3 Foundation (Turkish Technology Team)** — Fellow & Technology Mentor
 
 ---
 
