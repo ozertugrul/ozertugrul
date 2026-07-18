@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/ozertugrul">
-    <img src="https://img.shields.io/github/followers/ozertugrul?label=Followers&style=for-the-badge&color=238636&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/ozertugrul?style=for-the-badge&logo=github&color=238636" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/ozertugrul?tab=repositories">
-    <img src="https://img.shields.io/github/directory-file-count-total/ozertugrul?label=Repositories&style=for-the-badge&color=0969da&logo=git" alt="Repositories" />
+  <a href="https://huggingface.co/ozertuu">
+    <img src="https://img.shields.io/badge/Hugging%20Face-ozertuu-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   </a>
 </p>
 
@@ -98,8 +98,8 @@ I am a **Computer & AI Engineer** focused on building scalable systems, AI-power
 ### 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ozertugrul&show_icons=true&theme=tokyonight&count_private=true" alt="Ertuğrul's GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ozertugrul&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ozertugrul&show_icons=true&theme=tokyonight&count_private=true" alt="Ertuğrul's GitHub Stats" height="195" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ozertugrul&layout=compact&theme=tokyonight" alt="Top Languages" height="195" />
 </p>
 
 <p align="center">
