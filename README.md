@@ -17,14 +17,10 @@
 
 ### 🚀 Hakkımda
 
-Amasya Üniversitesi Bilgisayar Mühendisliği mezunuyum. Ölçeklenebilir sistem mimarileri, yapay zeka destekli uygulamalar ve üretime hazır (production-ready) yazılım altyapıları geliştirmeye odaklanmış bir **Bilgisayar & Yapay Zeka Mühendisiyim**. 
+Ölçeklenebilir sistem mimarileri, büyük dil modelleri (LLMs) ve derin öğrenme tabanlı uygulamalar geliştirmeye odaklanmış bir **Bilgisayar & Yapay Zeka Mühendisiyim**. Üretime hazır (production-ready) sistemler, asenkron yapılar ve akıllı otomasyon çözümleri inşa etmek en büyük tutkum.
 
-- 🏆 **TEKNOFEST 2024 Trendyol e-Ticaret Hackathonu**'nda "LLMCini" takımıyla **Türkiye 5.liği** derecesi elde ettim.
-- 🇹🇷 **Türkiye Teknoloji Takımı Vakfı (T3 Vakfı)** bünyesinde Bursiyer/Girişimci (Fellow) olarak yer alıp, DENEYAP öğrencilerine mentorluk yapıyor ve TEKNOFEST takımlarına teknik süreçlerde rehberlik ediyorum.
-- 💼 **Bionluk** üzerinden bağımsız (Freelance) olarak FastAPI, Django, PostgreSQL ve JavaScript kullanarak ölçeklenebilir backend sistemleri, NLP boru hatları ve vektör arama tabanlı AI entegrasyonları geliştirdim.
-- 🛠️ Amasya Üniversitesi Bilgi İşlem Daire Başkanlığı'nda:
-  - **Swift Developer Stajyeri** olarak SwiftUI (MVVM) ve FastAPI tabanlı, pgvector ile anlamsal arama ve işbirlikçi filtreleme yapan tavsiye motoruna sahip yemek sipariş platformu geliştirdim.
-  - **AI & Full Stack Developer Stajyeri** olarak PyTorch ile görüntü restorasyonu/renklendirme derin öğrenme modelleri eğittim; Celery tabanlı asenkron backend boru hatları kurup Docker ve Linux sunucu altyapılarını yönettim.
+T3 Vakfı bünyesinde yeni nesil teknoloji ekiplerine mentorluk yaparken, açık kaynak ekosistemine de aktif katkı sunuyorum. Çeşitli sistemlerin performansını optimize etmekten, karmaşık backend mimarilerini Dockerize edip ayağa kaldırmaktan ve veriler arasından anlamsal anlamlar çıkaran AI modellerini eğitmekten keyif alıyorum.
+
 
 ---
 
@@ -125,9 +121,6 @@ Benimle iletişime geçmek veya projelerime katkıda bulunmak isterseniz:
 <p align="left">
   <a href="https://linkedin.com/in/ozerx">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://youtube.com/@ozertugrul">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://huggingface.co/ozertuu">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
