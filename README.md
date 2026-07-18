@@ -125,7 +125,4 @@ I am a **Computer & AI Engineer** focused on building scalable systems, AI-power
   </a>
 </p>
 
-<p align="center">
-  <sub>README generated with ❤️ and AI pairing.</sub>
-</p>
 <!-- yolo-test -->
