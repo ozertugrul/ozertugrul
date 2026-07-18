@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ozerx">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://huggingface.co/ozertuu">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge" alt="Hugging Face" />
   </a>
   <a href="https://www.kaggle.com/ozertuu">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge" alt="Kaggle" />
   </a>
 </p>
 
@@ -115,13 +115,13 @@ I am a **Computer & AI Engineer** focused on building scalable systems, AI-power
 
 <p align="left">
   <a href="https://linkedin.com/in/ozerx">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://huggingface.co/ozertuu">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge" alt="Hugging Face" />
   </a>
   <a href="mailto:info@ertugrulozer.com.tr">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email" />
   </a>
 </p>
 
