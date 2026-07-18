@@ -83,14 +83,14 @@ I am a **Computer & AI Engineer** focused on building scalable systems, AI-power
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🖼️ Turkish-Captioner</h3>
+      <h3 align="center">🍔 Yemeksepeti App</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/VLM-Llama--3.2--VL-red?style=flat-square" alt="Llama-3.2-VL" />
-        <img src="https://img.shields.io/badge/Data-45K+_Samples-purple?style=flat-square" alt="Data" />
+        <img src="https://img.shields.io/badge/Language-Swift-F05138?style=flat-square" alt="Swift" />
+        <img src="https://img.shields.io/badge/Framework-SwiftUI--MVVM-007ACC?style=flat-square" alt="SwiftUI" />
       </p>
-      <p>A Turkish image-captioning model based on Llama-3.2-VL. Developed by applying SFT training on a dataset of 45K+ Turkish image-description pairs to ensure high semantic consistency.</p>
+      <p>A multi-role food ordering platform mobile application built with SwiftUI (MVVM architecture) and FastAPI. Integrates pgvector for semantic search, recommendation algorithms, and JWT-based authentication.</p>
       <p align="center">
-        <a href="https://github.com/ozertugrul/eksicrw">👉 View Project</a>
+        <a href="https://github.com/ozertugrul/yemeksepetiApp">👉 View Project</a>
       </p>
     </td>
   </tr>
