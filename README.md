@@ -30,7 +30,7 @@ I am a **Computer & AI Engineer** focused on building scalable systems, AI-power
 #### 💻 Programming Languages & Web Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,rust,ruby,swift,cs,c,cpp,javascript,html,css,tailwind,react,nextjs" alt="Languages and Web Stack" />
+    <img src="https://skillicons.dev/icons?i=python,rust,ruby,swift,cs,c,cpp,javascript,html,css,tailwind,react,nextjs,flutter" alt="Languages and Web Stack" />
   </a>
 </p>
 
